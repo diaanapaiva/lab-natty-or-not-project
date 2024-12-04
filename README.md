@@ -5,7 +5,7 @@
 
 ## 📒 Descrição
 Junto com as IAs Generativas, criei uma história de ninar em formato de video,
-e também criei um livro infatil.
+e também criei um livro infantil.
 
 ## 🤖 Tecnologias Utilizadas
 Utilizei o [ChatGPT](https://chatgpt.com/) para criar e melhorar o roteiro, [Storytelling](https://app.ltx.studio/) para criar voz e imagem de video e para criação do livro usei [Story Spark](https://storyspark.ai/)
